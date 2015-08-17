@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Snowballz
+Comment=A fun RTS game featuring snowball fights with penguins
+Exec=snowballz
+Icon=snowballz.png
+Terminal=false
+Categories=Game;StrategyGame;
